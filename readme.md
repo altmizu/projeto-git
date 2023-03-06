@@ -14,6 +14,7 @@ git branch -M "[nomedabranch]" =
 git remote add origin [linkdapastaprojeto] = 
 git push -u origin main = 
 clear = 
+git checkout -b "[nomedanovabranch]" = 
 -->
 
 Olá, esse projeto ensina você a utilizar o Git.
