@@ -6,15 +6,18 @@ Instruções/informações que não ficam dentro do código do projeto;
 <!--
 
 git init = 
-git add [nomedoarquivo] =                                                 
+git add [nomeDoArquivo] =                                                 
 git add . =
 git status = 
-git commit -m "[nomedocommit]" =
-git branch -M "[nomedabranch]" =
-git remote add origin [linkdapastaprojeto] = 
-git push -u origin main = 
-clear = 
-git checkout -b "[nomedanovabranch]" = 
+git commit -m "[nomeDoCommit]" =
+git branch -M "[nomeDaBranch]" = alterar o nome da branch
+git remote add origin [linkDaPastaProjeto] = fazer o link entre o git e o github
+git push -u origin main = enviar o arquivo "commitado" para o github first time
+git push origin [nomeDaBranch] = enviar o arquivo "commitado" para o github
+clear = limpar o console
+git checkout -b "[nomeDaNovaBranch]" = criação de nova branch
+git checkout [nomeDaBranch] = alterar entre as branches
+git merge [nomeDaBranch] = juntar a branch main com a nova branch (antes trocar para a main)
 -->
 
 Olá, esse projeto ensina você a utilizar o Git.
