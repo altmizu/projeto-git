@@ -21,6 +21,9 @@ git merge [nomeDaBranch] = juntar a branch main com a nova branch (antes trocar 
 git clone [linkDoRepositório] = copiar o repositório do github para o computador
 cd = change directory / entrar em uma pasta
 git pull = faz atualização do repositório clonado (necessário estar dentro da pasta [master/main])
+
+obs.: Pull request = solicitar ao dono do fork que coloque a atualização que eu fiz no projeto principal.
+
 -->
 
 Olá, esse projeto ensina você a utilizar o Git.
